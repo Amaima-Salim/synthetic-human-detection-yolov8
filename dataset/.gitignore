@@ -1,0 +1,12 @@
+
+dataset/images/
+dataset/train/
+dataset/val/
+dataset/labels/
+hdris/
+venv/
+training/runs/
+*.pt
+
+
+!training/yolov8n.pt
