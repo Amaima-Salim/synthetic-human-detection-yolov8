@@ -1,0 +1,35 @@
+
+
+# HDRI files (large, licensed)
+hdris/
+
+# Pose FBX files (licensed)
+poses/
+
+# Virtual environment
+venv/
+
+# Training runs and weights
+training/runs/
+
+# Base model (download separately)
+*.pt
+
+# Results
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Blender temp files
+*.blend1

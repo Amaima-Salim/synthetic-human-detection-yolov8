@@ -10,5 +10,5 @@ model.predict(
     save=True,
     conf=0.1,
     project="E:/HumanSyntheticProject/results",
-    name="predict_v2"
+    name="predict_v3"
 )
